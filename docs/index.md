@@ -5,8 +5,6 @@ Working building a standup arcade cabinent using  RetroPie.
 
 So far I am keeping some random [Build Notes](notes) and a build log.
 
-
-
 {% for post in site.posts %}
   * [{{ post.title }}]({{ site.url}}{{ post.url }})
 {% endfor %}
