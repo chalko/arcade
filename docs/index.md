@@ -1,13 +1,14 @@
-# Arcade Build notes
+# Arcade Build
 
-Working buildin a standup arcade cabinennt using retro pie.
-
-## Software
-
-## Cabinent
-
-## Controls
+Working building a standup arcade cabinent using  RetroPie.
 
 
-Button layout template from slagcoin 
-[Sega printed at 96 dpi](https://www.slagcoin.com/joystick/layout/sega2_m.png)
+So far I am keeping some random [Build Notes](notes.md) and a build log
+
+
+
+{% for post in site.posts %}
+  * [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
