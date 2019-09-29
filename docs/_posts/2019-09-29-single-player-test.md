@@ -13,7 +13,7 @@ I used a RaspberryPie 3 b+, with a
 [2 player set of buttons and joysticks](https://shop.xgaming.com/collections/arcade-parts/products/arcade-bundle-2-joysticks-20-buttons)
 from [XArcade](https://shop.xgaming.com/).
 
-My grandson liked it ![Testing TMNT](/assets/IMG_20190926_171145.jpg)
+My grandson liked it ![Testing TMNT]({{ site.baseurl }}/assets/IMG_20190926_171145.jpg)
 
 But there was several problems.
 
