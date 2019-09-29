@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-url: https://chalko.github.io/arcade/
+base_path: arcade
+url: https://chalko.github.io
