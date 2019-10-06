@@ -2,6 +2,8 @@
 
 ## Software
 
+I am using [RetroPie](retropie.org.uk)
+
 ## Cabinent
 
 ## Controls
