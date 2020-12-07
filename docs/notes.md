@@ -35,17 +35,17 @@ For the button assignments I am using the
  * change passwd
  * `ssh-copy-id pi@retropie`
  
- ### PicadeHat
+### PicadeHat
  
  * `curl https://get.pimoroni.com/picadehat | bash`
  
- ### usb controllers
+### usb controllers
  
   * copy controller configs 
-  ```shell script
-scp retropie/configs/all/retroarch/autoconfig/*.cfg \
-  pi@retropie:/opt/retropie/configs/all/retroarch/autoconfig/
-```
+    ```
+    scp retropie/configs/all/retroarch/autoconfig/*.cfg \
+    pi@retropie:/opt/retropie/configs/all/retroarch/autoconfig/
+    ```
   * Ensure the left player is the first USB controller on the minihub 
     and the mini hub is in pi USB 2 which is the upper left
   
