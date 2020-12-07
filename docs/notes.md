@@ -27,11 +27,25 @@ For the button assignments I am using the
 
 ## Install notes
 
+### Base install with SSH
  * RetroPie 4.7.1
  * Set timezone to US/ Pacific
  * Turn on SSH
  * ssh using default password
  * change passwd
  * `ssh-copy-id pi@retropie`
+ 
+ ### PicadeHat
+ 
+ * `curl https://get.pimoroni.com/picadehat | bash`
+ 
+ ### usb controllers
+ 
+  * copy controller configs 
+  ```shell script
+scp retropie/configs/all/retroarch/autoconfig/*.cfg \
+  pi@retropie:/opt/retropie/configs/all/retroarch/autoconfig/
+```
+ 
 
 
