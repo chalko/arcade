@@ -46,6 +46,9 @@ For the button assignments I am using the
 scp retropie/configs/all/retroarch/autoconfig/*.cfg \
   pi@retropie:/opt/retropie/configs/all/retroarch/autoconfig/
 ```
- 
+  * Ensure the left player is the first USB controller on the minihub 
+    and the mini hub is in pi USB 2 which is the upper left
+  
+  
 
 
