@@ -2,14 +2,14 @@
 
 ## Software
 
-I am using [RetroPie](retropie.org.uk)
+I am using [RetroPie](http://retropie.org.uk)
 
 ## Cabinent
 
 ## Controls
 
 
-###Buttons
+### Buttons
 Button layout template from slagcoin 
 [Sega printed at 96 dpi](https://www.slagcoin.com/joystick/layout/sega2_m.png)
 
@@ -23,3 +23,15 @@ With plywood driling 3/32 hole works well with nylon and brass m2.5 screw offset
 For the button assignments I am using the 
 [libretro MAME 2003+ Modern Fightstick layout](https://docs.libretro.com/library/mame2003_plus/#default-retropad-layouts)
 ![Modern Fightstick](https://docs.libretro.com/image/core/mame2003-plus/fightstick.png)
+
+
+## Install notes
+
+ * RetroPie 4.7.1
+ * Set timezone to US/ Pacific
+ * Turn on SSH
+ * ssh using default password
+ * change passwd
+ * `ssh-copy-id pi@retropie`
+
+
