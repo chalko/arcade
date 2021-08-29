@@ -50,8 +50,7 @@ For the button assignments I am using the
     and the mini hub is in pi USB 2 which is the upper left.
     * the ethernet port is USB 1.
   * Turn on the joystick select option for retro arch.
-    * Not sure if this is needed on fresh install.
-
+    * Not sure if this is needed on fresh installation.
 
 ## Open Problem
  
