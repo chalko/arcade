@@ -1,6 +1,27 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./megaman2.zip</path>
+		<name>Mega Man 2: The Power Fighters</name>
+		<desc>It's a disaster: Doctor Light's lab has been attacked by Doctor Wily, and stolen some crucial parts for robots. And, if it weren't bad enough already, he has taken Roll as a hostage! Mega Man and Proto Man go to stop Wily and stumble upon Duo, the big alien robot, who is willing to help. And Bass, still angry that Wily has revived more Robot Masters, again teams up with the good side to destroy the enemies...</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/megaman2-image.jpg</image>
+		<releasedate>19960801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sf1us.zip</path>
+		<name>SF-X</name>
+		<desc>Speed through space as Space Fighter-X destroying enemy targets.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/sf1us-image.jpg</image>
+		<releasedate>19830701T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
 		<path>./tmnt.zip</path>
 		<name>Teenage Mutant Ninja Turtles</name>
 		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987.
@@ -13,6 +34,32 @@ Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to i
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./tmnt2.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Turtles In Time</name>
+		<desc>Teenage Mutant Ninja Turtles: Turtles in Time is an arcade video game produced by Konami. A sequel to the original Teenage Mutant Ninja Turtles arcade game, it is a scrolling beat 'em up based mainly on the 1987 animated series.
+
+Like its predecessor, Turtles in Time was available for the arcades in two and four-player versions. Each playable character has his own strengths and weaknesses. New features in this game include the ability to execute a power attack by hitting an enemy several times in a row, and the ability to slam Foot Soldiers into surrounding enemies.
+
+Players guide the turtles through a series of levels. The first takes place in the streets of New York City. Later levels transport the turtles to representations of various historical eras. In each level, players face enemies from both the 1987 cartoon and the feature film Teenage Mutant Ninja Turtles II: The Secret of the Ooze, including Foot Soldiers and Stone Warriors. Bosses include the fly form of Baxter Stockman, Metalhead, Tokka, Rahzar and Leatherhead.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/tmnt2-image.jpg</image>
+		<releasedate>19910918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<desc>X-Men is an arcade game produced by Konami in 1992. It is a side-scrolling beat 'em up based on the Marvel Comics characters of the same name. In the game, players control one of the six playable X-Men to defeat their enemy Magneto. Konami made a six-player version of the game utilizing two screens housed in a deluxe cabinet.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/xmen-image.jpg</image>
+		<releasedate>19920212T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Fighting</genre>
 		<players>4</players>
 	</game>
 </gameList>
