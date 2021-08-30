@@ -35,17 +35,26 @@ For the button assignments I am using the
  * change passwd
  * `ssh-copy-id pi@retropie`
  
-### PicadeHat
+## On device config
+Ssh into the device
+* `sudo atp updated`
  
- * `curl https://get.pimoroni.com/picadehat | bash`
+#### PicadeHat
  
-### usb controllers
+```
+curl https://get.pimoroni.com/picadehat | bash
+```
  
-  * copy controller configs 
-    ```
-    scp retropie/configs/all/retroarch/autoconfig/*.cfg \
-    pi@retropie:/opt/retropie/configs/all/retroarch/autoconfig/
-    ```
+## configs
+ 
+copy key configs 
+
+```
+scp retropie/configs/all/ \
+  pi@retropie:/opt/retropie/configs/all/
+```
+    
+## Controllers
   * Ensure the first player is the first USB controller on the minihub 
     and the mini hub is in pi USB 2 which is the upper left.
     * the ethernet port is USB 1.
