@@ -35,6 +35,8 @@ Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to i
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
 	</game>
 	<game>
 		<path>./tmnt2.zip</path>
@@ -50,6 +52,8 @@ Players guide the turtles through a series of levels. The first takes place in t
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
 	</game>
 	<game>
 		<path>./xmen.zip</path>
@@ -61,5 +65,7 @@ Players guide the turtles through a series of levels. The first takes place in t
 		<publisher>Konami</publisher>
 		<genre>Action, Fighting</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
 	</game>
 </gameList>
