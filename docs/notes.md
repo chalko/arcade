@@ -50,7 +50,7 @@ curl https://get.pimoroni.com/picadehat | bash
 copy key configs 
 
 ```
-scp retropie/configs/all/ \
+scp -r retropie/configs/all/* \
   pi@retropie:/opt/retropie/configs/all/
 ```
     
