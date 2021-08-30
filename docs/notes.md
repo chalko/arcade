@@ -62,6 +62,19 @@ scp -r retropie/configs/all/* \
     * Not sure if this is needed on fresh installation.
 
 
+## Fix the audio
+
+```none
+# uncomment to force a HDMI mode rather than DVI. This can make audio work in
+# DMT (computer monitor) modes
+hdmi_drive=2
+```
+
+```shell
+sudo vi /boot/config.txt
+```
+
+
 ## Tips
 
 Get list of arcade rom files that I like
@@ -72,9 +85,7 @@ xmlstarlet sel -t -v \
   retropie/configs/all/emulationstation/gamelists/arcade/gamelist.xml
 ```
 
-## Open Problem
- 
-  * No sound  
+
 
 
 
