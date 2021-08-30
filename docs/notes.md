@@ -61,6 +61,17 @@ scp -r retropie/configs/all/* \
   * Turn on the joystick select option for retro arch.
     * Not sure if this is needed on fresh installation.
 
+
+## Tips
+
+Get list of arcade rom files that I like
+
+```
+xmlstarlet sel -t -v \
+  "/gameList/game/path" \
+  retropie/configs/all/emulationstation/gamelists/arcade/gamelist.xml
+```
+
 ## Open Problem
  
   * No sound  
